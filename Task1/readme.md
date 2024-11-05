@@ -1,6 +1,6 @@
 # Landing Page<br>
 
-Welcome to the Landing Page project! This is a simple and responsive landing page designed to showcase your product or service effectively.
+Welcome to the Landing Page project! This is a simple and responsive landing page.
 
 ## About <br>
 

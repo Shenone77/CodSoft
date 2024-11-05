@@ -6,4 +6,4 @@
 
 The three task folders contain the output and code with  
 all the required items.  
-Each task forlder has it's own readme.
+Each task folder has it's own readme.
